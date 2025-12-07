@@ -1,8 +1,8 @@
 # Meine eigenen PiHole-Blocklisten 
 ## tl;dr:
-  Das Repository beinhaltet einige meiner kleinen Blocklisten, die ich auf mehreren PiHole-Instanzen gleichzeitig aktuell halten können muss.\
+  Das Repository beinhaltet einige meiner kleinen Blocklisten, die ich auf mehreren PiHole-Instanzen gleichzeitig aktuell halten können muss.
 ## Warum so und nicht direkt synchronisiert?
-  Da direkter Sync der PiHole-Datenbanken über noch genutze, altmodische ADSL-Leitungen diese für mehrere Stunden lahmlegt (zumindest bei den ca. 2,5GB großen DB, die lokal laufen), und ich die Listen auch so in z.B. uBlock Origin und AdGuard einhängen kann, liegen diese hier.\
+  Da direkter Sync der PiHole-Datenbanken über noch genutze, altmodische ADSL-Leitungen diese für mehrere Stunden lahmlegt (zumindest bei den ca. 2,5GB großen DB, die lokal laufen), und ich die Listen auch so in z.B. uBlock Origin und AdGuard einhängen kann, liegen diese hier.
   
 ## Kurzer Überblick über die verschiedenen Listen:
 - __fsckafd__ - Name ist Programm, und deren Inhalte möchte niemand in meinem Bekanntenkreis über seine Netzwerke fließen sehen

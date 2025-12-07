@@ -1,6 +1,9 @@
 # Meine eigenen PiHole-Blocklisten 
 ## tl;dr:
-  Das Repository beinhaltet einige meiner kleinen Blocklisten, die ich auf mehreren PiHole-Instanzen gleichzeitig aktuell halten können muss.
+  Das Repository beinhaltet einige meiner kleinen Blocklisten, die ich auf mehreren PiHole-Instanzen gleichzeitig aktuell halten können muss.\
+  Da es ein Nebenbei-Ding ist, wird es hier nicht so häufig Updates geben wie bei den "großen" Blocklisten. Die Listen werden spontan geupdated, falls was neues vor mich fällt, was in diese Listen passt.
+## Fehlt eine oder mehrere Domänen oder soll noch was anderes dazu?
+Dann gerne einen Commit machen, ich schau es mir dann (mehr oder weniger) zeitnah an, ob's dazupasst.
 ## Warum so und nicht direkt synchronisiert?
   Da direkter Sync der PiHole-Datenbanken über noch genutze, altmodische ADSL-Leitungen diese für mehrere Stunden lahmlegt (zumindest bei den ca. 2,5GB großen DB, die lokal laufen), und ich die Listen auch so in z.B. uBlock Origin und AdGuard einhängen kann, liegen diese hier.
   
